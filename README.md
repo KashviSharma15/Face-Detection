@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/sagarkarar/nonface-and-face-dataset <br>
 **Apart from this I have added few more images from other dataset and my personal folders as well , to add variety and balance the number of face and non-face images.
 
 <br>
-<b>Library :</b>
+<b>Library :</b> <br>
 os 
 <br>
 numpy
@@ -25,11 +25,12 @@ scikit-learn (sklearn)
 <br>
 warnings
 <br>
-<b>Algorithm Used</b>
+<b>Algorithm Used</b> <br>
 Convolutional Neural Network (CNN) :
 The central algorithm used in this face detection project is the Convolutional Neural Network (CNN), a specialized type of deep neural network particularly effective for image recognition and classification. CNNs are designed to automatically and adaptively learn spatial hierarchies of features through a series of convolutional layers, pooling layers, and fully connected layers. In this project, CNNs played a crucial role in classifying facial images from the Kaggle dataset into two classes (such as face vs. nonface). The network structure included multiple core components, each serving a distinct purpose within the CNN pipeline.
 <br>
-<b>Evaluation Metrics Used</b>
+<b>Evaluation Metrics Used :</b>
+<br>
 Accuracy 
  <br>
 Classification Report
