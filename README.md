@@ -25,7 +25,7 @@ scikit-learn (sklearn)
 <br>
 warnings
 <br>
-<b>Algorithm Used</b> <br>
+<b>Algorithm Used :</b> <br>
 Convolutional Neural Network (CNN) :
 The central algorithm used in this face detection project is the Convolutional Neural Network (CNN), a specialized type of deep neural network particularly effective for image recognition and classification. CNNs are designed to automatically and adaptively learn spatial hierarchies of features through a series of convolutional layers, pooling layers, and fully connected layers. In this project, CNNs played a crucial role in classifying facial images from the Kaggle dataset into two classes (such as face vs. nonface). The network structure included multiple core components, each serving a distinct purpose within the CNN pipeline.
 <br>
